@@ -40,5 +40,3 @@ https://github.com/yemitad/Microsoft-power-bi-Project
 ### 📊 Visualization & BI
 
 
-**My Projects**
-
