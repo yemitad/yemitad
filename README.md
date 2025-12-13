@@ -29,64 +29,14 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 ### 🐍 Python & Analytics
 
-* Introduction to Python
-* Intermediate Python
-* Introduction to Python for Developers
-* Data Analysis in Python
-* Introduction to Statistics in Python
-* Exploratory Data Analysis in Python
-
 ### 🛢️ SQL
-
-* Introduction to SQL
-* Intermediate SQL
-* Joining Data in SQL
 
 ### 🐼 pandas & Data Wrangling
 
-* Data Manipulation with pandas
-* Joining Data with pandas
-
 ### 📊 Visualization & BI
 
-* Introduction to Data Visualization with Seaborn
-* Data Visualization with Matplotlib
-* Data Preparation in Power BI
 
 ---
 
 **My Projects**
-📊 Data Analysis & Python
-
-Exploratory Data Analysis (EDA) with Python
-👉 https://github.com/your-username/eda-python
-
-Data cleaning, statistical analysis, and insights using pandas & Seaborn
-
-Data Manipulation with pandas
-👉 https://github.com/your-username/pandas-data-manipulation
-
-Real-world datasets transformed, joined, and analyzed using pandas
-
-🛢️ SQL Projects
-
-SQL Data Analysis & Joins
-👉 
-
-Complex joins, aggregations, and KPI-focused SQL queries
-
-📈 Data Visualization & BI
-
-Data Visualization with Seaborn & Matplotlib
-👉
-
-Insightful visual storytelling using Python visualization libraries
-
-Power BI Data Preparation Project
-👉
-
-Data cleaning, modeling, and preparation for BI dashboards
-
-
-If you want, I can also:
 
