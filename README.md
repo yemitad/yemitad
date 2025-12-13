@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 ---
 
+**My Projects**
+https://github.com/yemitad/Microsoft-power-bi-Project
+
 ## 🧠 Core Skills & Tools
 
 * **Programming & Data:** Python, SQL, pandas
@@ -22,7 +25,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 - Data analysis and reporting using Google Sheets and Excel.
 
 ---
-**My Projects**
+
 
 
 ## 📚 Training & Certifications
