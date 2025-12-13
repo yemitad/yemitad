@@ -55,10 +55,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 ---
 
-## 💼 Professional Experience
-
-≈
-  🚀 Featured Projects
+**My Projects**
 📊 Data Analysis & Python
 
 Exploratory Data Analysis (EDA) with Python
