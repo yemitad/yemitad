@@ -15,7 +15,15 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 * **Product & Policy:** Trust & Safety, content moderation, policy governance, risk & incident management
 * **Productivity:** Excel (advanced), PowerPoint, Word
 
+**Experience**
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on Tableau and Looker Studio.
+- Data analysis and reporting using Google Sheets and Excel.
+
 ---
+
+
 
 ## 📚 Training & Certifications
 
@@ -49,32 +57,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 ## 💼 Professional Experience
 
-### **Senior Quality Analyst | TikTok**
-
-*Oct 2021 – Present*
-
-* Conduct data analysis using **SQL and Excel** to identify policy gaps and improve content quality.
-* Lead quality assurance reviews, calibration sessions, and KPI reporting for global moderation teams.
-* Deliver policy training on community guidelines including **misinformation, hate speech, copyright, child safety, and high-risk content**.
-* Played a key role in launching the **Sub-Saharan Africa push department**, including process creation, training delivery, and CA support.
-* Collaborate with **Risk & Incidents, Product, and Policy teams** to mitigate sensitive cases such as war-related content, social unrest, and child-safety risks.
-* Develop onboarding materials and training documentation for moderators and Quality Analysts.
-* Recognized with the **Bytestyle Award (Best Performer – 2023)**.
-
-### **Community Content Management Specialist | TikTok**
-
-*Nov 2020 – Oct 2021*
-
-* Moderated high-volume content to ensure compliance with community standards and online-safety regulations.
-* Investigated and removed policy-violating and underage accounts.
-* Supported regional initiatives for the **Sub-Saharan Africa market**.
-* Delivered shadowing and policy training to strengthen moderation accuracy.
-
-### **NHS Partnership Administrator | Tower Hamlets Wheelchair Service**
-
-*Aug 2011 – Oct 2020*
-
-* Provided administrative and operational support to clinica
+≈
   🚀 Featured Projects
 📊 Data Analysis & Python
 
