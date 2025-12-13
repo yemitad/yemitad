@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yemesrach Mesfin
 
-**Senior Quality Analyst | Data & Policy Analytics | Trust & Safety Professional**
+**Senior Quality Analyst | Data Analyst| Trust & Safety Professional**
 
 Welcome to my GitHub profile! I am a dedicated and analytical professional with extensive experience in **Trust & Safety, content integrity, policy training, and data analysis**. I leverage **Python, SQL, pandas, and data visualization tools** to generate insights, improve quality processes, and support data-driven decision-making across global teams.
 
