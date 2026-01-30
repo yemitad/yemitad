@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 **My Projects**
 
 **Microsoft Power Bi**
-**Data transformation and preparation**
+**Data transformation ,preparation & Visualization**
 [Project](https://github.com/yemitad/Microsoft-power-bi-Project)
 
 
