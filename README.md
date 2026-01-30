@@ -10,7 +10,28 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 **Microsoft Power Bi**
 **Data transformation and preparation**
-https://github.com/yemitad/Microsoft-power-bi-Project
+[Project](https://github.com/yemitad/Microsoft-power-bi-Project)
+
+
+## 📚 Training & Certifications
+
+### 🐍 Python & Analytics   
+[Phython certificate ](https://www.datacamp.com/completed/statement-of-accomplishment/course/6be79ef19130ccd2e765ca1856bd440a9b3c47b8)
+
+### 🛢️ SQL
+[Intermidate SQL certificate ](https://www.datacamp.com/completed/statement-of-accomplishment/course/1e95c253ac1964b555c49e7b31d63b9688876d2b)
+
+[Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d54d397a77c81d54b5382ff705b99e6c06b2e34])
+
+### 🐼 pandas & Data Wrangling
+
+
+### 📊 Visualization & BI
+
+[Data Visualization Power Bi](https://www.datacamp.com/skill-verification/CPE0420649497760)
+https://www.datacamp.com/skill-verification/CPE0420649497760
+
+
 
 ## 🧠 Core Skills & Tools
 
@@ -31,18 +52,6 @@ https://github.com/yemitad/Microsoft-power-bi-Project
 
 
 
-## 📚 Training & Certifications
 
-### 🐍 Python & Analytics   
-([https://www.datacamp.com/completed/statement-of-accomplishment/course/6be79ef19130ccd2e765ca1856bd440a9b3c47b8])
-
-### 🛢️ SQL
-([https://www.datacamp.com/completed/statement-of-accomplishment/course/1e95c253ac1964b555c49e7b31d63b9688876d2b])
-([https://www.datacamp.com/completed/statement-of-accomplishment/course/4d54d397a77c81d54b5382ff705b99e6c06b2e34])
-
-### 🐼 pandas & Data Wrangling
-
-
-### 📊 Visualization & BI
 [https://www.datacamp.com/skill-verification/CPE0420649497760]
 
