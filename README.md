@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 ### 📊 Visualization & BI
 
 [Data Visualization Power Bi](https://www.datacamp.com/skill-verification/CPE0420649497760)
-https://www.datacamp.com/skill-verification/CPE0420649497760
 
 
 
