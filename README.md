@@ -68,5 +68,4 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 
 
-[https://www.datacamp.com/skill-verification/CPE0420649497760]
 
