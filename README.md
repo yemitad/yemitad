@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 
 
-### 🧠 Core Skills & Tools
+## 🧠 Core Skills & Tools
 
 * **Programming & Data:** Python, SQL, pandas
 * **Data Analysis:** Exploratory Data Analysis (EDA), statistics, KPI reporting
@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 * **Product & Policy:** Trust & Safety, content moderation, policy governance, risk & incident management
 * **Productivity:** Excel (advanced), PowerPoint, Word
 
-**Experience**
+## Experience
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
