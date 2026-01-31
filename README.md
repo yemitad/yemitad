@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 ---
 
-**My Projects**
+## My Projects
 
 **Microsoft Power Bi**
 **Data transformation ,preparation & Visualization**
@@ -45,9 +45,8 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 
 
-###
 
-## 🧠 Core Skills & Tools
+### 🧠 Core Skills & Tools
 
 * **Programming & Data:** Python, SQL, pandas
 * **Data Analysis:** Exploratory Data Analysis (EDA), statistics, KPI reporting
