@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 [Exploratory Data Analysis in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/83c218da8c2255fc5f9c01bd879cbe23f6db96df)
 
-[Phython Toolbox](https://www.datacamp.com/completed/statement-of-accomplishment/course/d7ef94c07736f3ec4221231ef426c72f68c1f423)
+[Python Toolbox](https://www.datacamp.com/completed/statement-of-accomplishment/course/d7ef94c07736f3ec4221231ef426c72f68c1f423)
 
 ### 🛢️ SQL
 [Intermidate SQL certificate ](https://www.datacamp.com/completed/statement-of-accomplishment/course/1e95c253ac1964b555c49e7b31d63b9688876d2b)
