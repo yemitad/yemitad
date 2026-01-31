@@ -53,6 +53,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 * **Productivity:** Excel (advanced), PowerPoint, Word
 
 **Experience**
+
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau and Looker Studio.
