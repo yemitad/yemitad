@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 [Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d54d397a77c81d54b5382ff705b99e6c06b2e34])
 
-### 🐼 pandas & Data Wrangling
+### 🐼 Pandas & Data Wrangling
 [Data manipulation with Panda](https://www.datacamp.com/completed/statement-of-accomplishment/course/1df7f1fe08b1a23d10ffcc417ff8578cca158f28)
 
 
