@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 ## Microsoft Certification 
 
 Microsoft Certified: Power BI Data Analyst Associate PL300  -Pending
---
 
-### 🐍 Python & Analytics   
+
+## 🐍 Python & Analytics   
 [Intermidate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/e8bfe4a70bc6e1d84d31fa646e3bc9834c3ae490)
 
 [Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/6be79ef19130ccd2e765ca1856bd440a9b3c47b8)
