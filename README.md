@@ -10,10 +10,13 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 **Microsoft Power Bi**
 **Data transformation ,preparation & Visualization**
-[Project](https://github.com/yemitad/Microsoft-power-bi-Project)
+[Microsoft Bi Project](https://github.com/yemitad/Microsoft-power-bi-Project)
 
 
 ## 📚 Training & Certifications
+
+## Certification
+Microsoft Power Bi PL300  - Pending 
 
 ### 🐍 Python & Analytics   
 [Intermidate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/e8bfe4a70bc6e1d84d31fa646e3bc9834c3ae490)
@@ -29,7 +32,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 ### 🛢️ SQL
 [Intermidate SQL certificate ](https://www.datacamp.com/completed/statement-of-accomplishment/course/1e95c253ac1964b555c49e7b31d63b9688876d2b)
 
-[Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d54d397a77c81d54b5382ff705b99e6c06b2e34])
+[Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d54d397a77c81d54b5382ff705b99e6c06b2e34)
 
 ### 🐼 Pandas & Data Wrangling
 [Data manipulation with Panda](https://www.datacamp.com/completed/statement-of-accomplishment/course/1df7f1fe08b1a23d10ffcc417ff8578cca158f28)
