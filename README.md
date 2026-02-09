@@ -69,7 +69,7 @@ Microsoft Certified: Power BI Data Analyst Associate PL300  -Pending
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
+- Developing dashboards on Power Bi, Tableau and Looker Studio.
 - Data analysis and reporting using Google Sheets and Excel.
 
 ---
