@@ -18,7 +18,14 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 ## Microsoft Certification 
 
-Microsoft Certified: Power BI Data Analyst Associate PL300  -Pending
+Microsoft Certified: Power BI Data Analyst Associate PL300  -** Pending **
+
+
+[PL-300: Microsoft
+Power BI Data Analyst
+Associate 2026 by Udemy](https://www.udemy.com/certificate/UC-95328605-ca75-4a71-9f97-36d80e3cdd35/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+
+
 
 ## Training 
 
