@@ -60,7 +60,8 @@ Associate 2026 by Udemy](https://www.udemy.com/certificate/UC-95328605-ca75-4a71
 [Data Visualization with Matplotlib](https://www.datacamp.com/completed/statement-of-accomplishment/course/46989ce3eb4f19e52446f964ad551b37dcdcf6db)
 
 [Data Visualization with Seaborn](https://www.datacamp.com/completed/statement-of-accomplishment/course/c7c5874db90b428822c78785f3de5ea7c6604ef1)
-[Deploying and Maintaining Assets in Power BI] (https://www.datacamp.com/completed/statement-of-accomplishment/course/a0054bb2ae03d84802b212fef011c9e3a3ce25fb)
+
+[Deploying and Maintaining Assets in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/course/a0054bb2ae03d84802b212fef011c9e3a3ce25fb)
 
 
 ## 🧠 Core Skills & Tools
