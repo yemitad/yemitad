@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 [Job Market Analysis 🧐 Microsoft Power Bi ](https://github.com/yemitad/Microsoft-power-bi-Project)
 
+[https://fantastic-space-journey-xxq9799rj5xfp75.github.dev/] SQL 
 
 ## 📚 Training & Certifications
 
