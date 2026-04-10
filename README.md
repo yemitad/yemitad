@@ -45,7 +45,8 @@ Associate 2026 by Udemy](https://www.udemy.com/certificate/UC-95328605-ca75-4a71
 
 ### 🛢️ SQL
 [Intermidate SQL certificate ](https://www.datacamp.com/completed/statement-of-accomplishment/course/1e95c253ac1964b555c49e7b31d63b9688876d2b)
- [introduction to dbt] (https://www.datacamp.com/completed/statement-of-accomplishment/course/36e02c093d742b7290b2fd288908e19bdc3b69f1)
+
+[Dbt](https://www.datacamp.com/completed/statement-of-accomplishment/course/36e02c093d742b7290b2fd288908e19bdc3b69f1)
 
 [Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d54d397a77c81d54b5382ff705b99e6c06b2e34)
 
