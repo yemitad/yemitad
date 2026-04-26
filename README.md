@@ -8,14 +8,14 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 
 ## My Projects
 
-**Microsoft Power Bi**
-**Data Transformation ,Preparation & Visualization**
+## Microsoft Power Bi project 
 
-**[HR Analytics Dashboard](https://github.com/yemitad/POWER-BI-DASHBOARD-?tab=readme-ov-file)
+* [HR Analytics Dashboard](https://github.com/yemitad/POWER-BI-DASHBOARD-?tab=readme-ov-file)
 
-**[Job Market Analysis 🧐 Microsoft Power Bi ](https://github.com/yemitad/Microsoft-power-bi-Project)
+* [Job Market Analysis 🧐 Microsoft Power Bi ](https://github.com/yemitad/Microsoft-power-bi-Project)
 
-** [SQL Syntax & practice examples](https://fantastic-space-journey-xxq9799rj5xfp75.github.dev/) [Descriptions of syntax and SQL Functions](https://github.com/yemitad/Mysql-Syntax-with-examples-and-practice-questions) 
+### SQL Project 
+* [SQL Syntax & practice examples](https://fantastic-space-journey-xxq9799rj5xfp75.github.dev/) [Descriptions of syntax and SQL Functions](https://github.com/yemitad/Mysql-Syntax-with-examples-and-practice-questions) 
 
 ## 📚 Training & Certifications
 
