@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a dedicated and analytical professional with 
 * [Job Market Analysis 🧐 Microsoft Power Bi ](https://github.com/yemitad/Microsoft-power-bi-Project)
 
 ### SQL Project 
-* [SQL Syntax & practice examples][Descriptions of syntax and SQL Functions](https://github.com/yemitad/Mysql-Syntax-with-examples-and-practice-questions) 
+* [SQL Syntax & practice examples /Descriptions of syntax and SQL Functions](https://github.com/yemitad/Mysql-Syntax-with-examples-and-practice-questions) 
 
 * [SQL Operators Practice Q&A](https://github.com/yemitad/Mysql-Syntax-with-examples-and-practice-questions/blob/main/Operators%20Questions%20and%20Answers)
 ## 📚 Training & Certifications
