@@ -2,7 +2,7 @@
 
 **Senior Quality Analyst | Data Analysis| Trust & Safety Professional**
 
-Welcome to my GitHub profile! I am a dedicated and analytical professional with extensive experience in **Trust & Safety, content integrity, policy training, and data analysis**. I leverage **Python, SQL, pandas, and data visualization tools** to generate insights, improve quality processes, and support data-driven decision-making across global teams.
+Welcome to my GitHub profile! I am a dedicated and analytical professional with extensive experience in **Trust & Safety, content integrity, policy training, data quality and data analysis**. I leverage **Python, SQL, pandas, and data visualization tools** to generate insights, improve quality processes, and support data-driven decision-making across global teams.
 
 ---
 
