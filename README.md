@@ -44,8 +44,9 @@ Associate 2026 by Udemy](https://www.udemy.com/certificate/UC-95328605-ca75-4a71
 [Python Toolbox](https://www.datacamp.com/completed/statement-of-accomplishment/course/d7ef94c07736f3ec4221231ef426c72f68c1f423)
 
 ### 🛢️ SQL
-[Intermidate SQL certificate ](https://www.datacamp.com/completed/statement-of-accomplishment/course/1e95c253ac1964b555c49e7b31d63b9688876d2b)
-[Intermediate SQL](https://codefinity.com/certificate/16f2e2f7-7624-4de2-98e0-c9ebf1f21d9e/9f551543-b1bb-4307-afcd-0d82f5165ff4)
+[Intermidate SQL certification from datacamp ](https://www.datacamp.com/completed/statement-of-accomplishment/course/1e95c253ac1964b555c49e7b31d63b9688876d2b)
+
+[Intermediate SQL from codefinity](https://codefinity.com/certificate/16f2e2f7-7624-4de2-98e0-c9ebf1f21d9e/9f551543-b1bb-4307-afcd-0d82f5165ff4)
 
 [Dbt](https://www.datacamp.com/completed/statement-of-accomplishment/course/36e02c093d742b7290b2fd288908e19bdc3b69f1)
 
